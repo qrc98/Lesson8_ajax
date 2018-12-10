@@ -4,21 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
-
+12/9/2018
 ### Student Name:  
-(First and Last Name)
+
+Quentin Coombs
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
-
+In this assignment we learned how to use an API key and add it to our application in order to create a movie database 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
+https://qrc98.github.io/Lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. In this lesson I've learned how implement an API key in a working movie database application.
+2. In this lesson I've learned how to use jQuery to retrive the language from a movie datanase
+3. Ive also learned how AJAX is the art of exchanging data with a server
+4. I was also able to figure out what an API key is and how it is used in an application 
+5. In the lesson I learned how to create my own movie database web application using an API key and jQuery
